@@ -64,4 +64,6 @@ This project provides a simple, organized platform for syllabus revision, MCQ pr
 Aditi  
 MCA (General)  
 Academic Year: 2026–2027  
-Chandigarh University
+Chandigarh University"
+# To open the project's live link
+https://aditimittal1605-eng-python-exam-preparation-portal-dd-h7asmj.streamlit.app
